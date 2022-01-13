@@ -1,8 +1,7 @@
 # Projeto Desenvolvedora Front-End!
 A ideia desse porjeto é me tornar uma desenvolvedora Front-End de React, esse repositório conterá toda a minha evoluação nessa jornada.
  
-Do básico de Git à estrla React, 
-assim como muitos projetos verões por aí, 
+Do básico de Git à estrela React, 
 aqui está o Projeto_Dev!
 
 ## Links úteis

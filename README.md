@@ -10,5 +10,6 @@ aqui está o Projeto_Dev!
 3. Bootstrap
 
 ## Links úteis
-[Sintaxe Básica Markdown](https://www.markdownguide.org/)
-[Bootstrap/Exemples](https://getbootstrap.com/)
+[Sintaxe Básica Markdown](https://www.markdownguide.org/)\\
+[Bootstrap/Exemples](https://getbootstrap.com/)\\
+[Html Colors codes](https://htmlcolorcodes.com/)\\

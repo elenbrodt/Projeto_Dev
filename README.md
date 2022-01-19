@@ -8,6 +8,7 @@ aqui está o Projeto_Dev!
 1. Git
 2. HTML_CSS
 3. Bootstrap
+4.JavaScript
 
 ## Links úteis
 [Sintaxe Básica Markdown](https://www.markdownguide.org/)\\

@@ -1,0 +1,48 @@
+body {
+  background-color: aliceblue;  
+  font-family:Verdana;
+}
+
+body.dark-mode {
+  background-color: #000401;
+	color: #e5e8e8;
+}
+
+main{
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items:center;
+  justify-content: center;
+
+}
+
+button {
+  background-color: black;
+  border: solid 3px gray;
+  border-radius: 40px;
+  color: white;
+  font-weight: bold;
+  width: 200px;
+  height: 60px;
+  cursor:pointer;  
+
+  font-size: 1.1rem;
+}
+
+button:hover {
+	background-color: #e5e8e8;
+  transition: all 0.5s linear;
+  color: black;
+}
+
+button.dark-mode {
+  background-color: #e5e8e8;
+	color: #4e545c;
+}
+
+button.dark-mode:hover {
+	background-color: #4e545c;
+	color: #e5e8e8;
+}

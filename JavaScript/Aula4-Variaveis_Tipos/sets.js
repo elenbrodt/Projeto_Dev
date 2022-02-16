@@ -2,7 +2,7 @@ const array =[30, 30, 40, 5, 223, 2049, 3034, 5];
 
 function valoresUnicos(array){
   const mySet = new Set(array);
-  return [...mySet] /*gerei um array com os números únicos, com o spread*/
+  return [...mySet] /*gerei um array com os números únicos, com o d*/
 }
 
 console.log(valoresUnicos(array))

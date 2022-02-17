@@ -9,6 +9,8 @@ aqui está o Projeto_Dev!
 2. HTML_CSS
 3. Bootstrap
 4.JavaScript
+5. Node_js
+6. Desafios
 
 ## Links úteis
 [Sintaxe Básica Markdown](https://www.markdownguide.org/)\\

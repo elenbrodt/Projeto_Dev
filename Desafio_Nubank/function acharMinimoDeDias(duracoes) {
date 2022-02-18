@@ -1,0 +1,30 @@
+function acharMinimoDeDias(duracoes) {
+  let soma = 0;
+  let dias = 0;
+  
+  for (let i=0; i< duracoes.length; i++){
+
+    soma = duracoes[i] + duracoes[i+1];
+    
+    if (soma < 3.00 ){
+      dias = dias + 1;
+      console.log(`Dia ${dias}: ${soma} horas`);
+      i++;
+    } 
+    else if (soma > 3.00){
+      soma = duracoes[i] + duracoes[i+2];
+      dias = dias + 1;
+      
+      if (!duracoes[i+2]){
+        soma = duracoes[i];
+      }console.log(`Dia ${dias}: ${soma} horas`);
+    } 
+    
+  }
+  
+  return console.log(`Alex levará ${dias} dias para ver todos os filmes`);
+}
+duracoes = [1.90, 1.04, 1.25, 2.5, 1.75];
+acharMinimoDeDias (duracoes);
+
+1.01, 1.01, 1.01, 1.4, 2.4
